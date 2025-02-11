@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: Made with Databricks
+site_url: https://madewithdatabricks.com
+theme:
+  name: material
